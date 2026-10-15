@@ -1,0 +1,302 @@
+ [
+  {
+    "id": 1,
+    "product": "Laptop",
+    "customerName": "Ravi",
+    "price": 55000
+  },
+  {
+    "id": 2,
+    "product": "Mobile",
+    "customerName": "Suresh",
+    "price": 25000
+  },
+  {
+    "id": 3,
+    "product": "Headphones",
+    "customerName": "Priya",
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "product": "Keyboard",
+    "customerName": "Anil",
+    "price": 1500
+  },
+  {
+    "id": 5,
+    "product": "Monitor",
+    "customerName": "Kiran",
+    "price": 12000
+  },
+  {
+    "id": 6,
+    "product": "Mouse",
+    "customerName": "Sneha",
+    "price": 800
+  },
+  {
+    "id": 7,
+    "product": "Tablet",
+    "customerName": "Rahul",
+    "price": 18000
+  },
+  {
+    "id": 8,
+    "product": "Smartwatch",
+    "customerName": "Divya",
+    "price": 5000
+  },
+  {
+    "id": 9,
+    "product": "Printer",
+    "customerName": "Arjun",
+    "price": 9000
+  },
+  {
+    "id": 10,
+    "product": "Speaker",
+    "customerName": "Meena",
+    "price": 3500
+  },
+  {
+    "id": 11,
+    "product": "Camera",
+    "customerName": "Vijay",
+    "price": 32000
+  },
+  {
+    "id": 12,
+    "product": "Power Bank",
+    "customerName": "Lakshmi",
+    "price": 1800
+  },
+  {
+    "id": 13,
+    "product": "USB Cable",
+    "customerName": "Karthik",
+    "price": 400
+  },
+  {
+    "id": 14,
+    "product": "External Hard Drive",
+    "customerName": "Pooja",
+    "price": 6500
+  },
+  {
+    "id": 15,
+    "product": "Gaming Console",
+    "customerName": "Manoj",
+    "price": 42000
+  },
+  {
+    "id": 16,
+    "product": "Smart TV",
+    "customerName": "Swathi",
+    "price": 38000
+  },
+  {
+    "id": 17,
+    "product": "Refrigerator",
+    "customerName": "Naveen",
+    "price": 28000
+  },
+  {
+    "id": 18,
+    "product": "Washing Machine",
+    "customerName": "Anusha",
+    "price": 24000
+  },
+  {
+    "id": 19,
+    "product": "Air Conditioner",
+    "customerName": "Praveen",
+    "price": 35000
+  },
+  {
+    "id": 20,
+    "product": "Microwave Oven",
+    "customerName": "Deepa",
+    "price": 8500
+  },
+  {
+    "id": 21,
+    "product": "Mixer Grinder",
+    "customerName": "Ramesh",
+    "price": 3200
+  },
+  {
+    "id": 22,
+    "product": "Electric Kettle",
+    "customerName": "Sravani",
+    "price": 1200
+  },
+  {
+    "id": 23,
+    "product": "Water Purifier",
+    "customerName": "Harish",
+    "price": 14000
+  },
+  {
+    "id": 24,
+    "product": "Ceiling Fan",
+    "customerName": "Mounika",
+    "price": 2800
+  },
+  {
+    "id": 25,
+    "product": "Iron Box",
+    "customerName": "Santosh",
+    "price": 1600
+  },
+  {
+    "id": 26,
+    "product": "Office Chair",
+    "customerName": "Geetha",
+    "price": 7500
+  },
+  {
+    "id": 27,
+    "product": "Study Table",
+    "customerName": "Ajay",
+    "price": 6000
+  },
+  {
+    "id": 28,
+    "product": "Bookshelf",
+    "customerName": "Nandini",
+    "price": 4500
+  },
+  {
+    "id": 29,
+    "product": "Backpack",
+    "customerName": "Rohit",
+    "price": 2200
+  },
+  {
+    "id": 30,
+    "product": "Wrist Watch",
+    "customerName": "Kavya",
+    "price": 4000
+  },
+  {
+    "id": 31,
+    "product": "Running Shoes",
+    "customerName": "Vamsi",
+    "price": 3000
+  },
+  {
+    "id": 32,
+    "product": "T-Shirt",
+    "customerName": "Bhavya",
+    "price": 900
+  },
+  {
+    "id": 33,
+    "product": "Jeans",
+    "customerName": "Tarun",
+    "price": 1800
+  },
+  {
+    "id": 34,
+    "product": "Jacket",
+    "customerName": "Akhila",
+    "price": 3500
+  },
+  {
+    "id": 35,
+    "product": "Sunglasses",
+    "customerName": "Chandu",
+    "price": 1500
+  },
+  {
+    "id": 36,
+    "product": "Wallet",
+    "customerName": "Rekha",
+    "price": 700
+  },
+  {
+    "id": 37,
+    "product": "Travel Bag",
+    "customerName": "Mahesh",
+    "price": 2800
+  },
+  {
+    "id": 38,
+    "product": "Water Bottle",
+    "customerName": "Sindhu",
+    "price": 600
+  },
+  {
+    "id": 39,
+    "product": "Yoga Mat",
+    "customerName": "Gopal",
+    "price": 1100
+  },
+  {
+    "id": 40,
+    "product": "Dumbbells",
+    "customerName": "Teja",
+    "price": 2500
+  },
+  {
+    "id": 41,
+    "product": "Bluetooth Earbuds",
+    "customerName": "Varun",
+    "price": 2800
+  },
+  {
+    "id": 42,
+    "product": "Webcam",
+    "customerName": "Shilpa",
+    "price": 4500
+  },
+  {
+    "id": 43,
+    "product": "Router",
+    "customerName": "Krishna",
+    "price": 2200
+  },
+  {
+    "id": 44,
+    "product": "Microphone",
+    "customerName": "Sowmya",
+    "price": 5000
+  },
+  {
+    "id": 45,
+    "product": "Projector",
+    "customerName": "Bharath",
+    "price": 27000
+  },
+  {
+    "id": 46,
+    "product": "Tripod",
+    "customerName": "Harika",
+    "price": 1800
+  },
+  {
+    "id": 47,
+    "product": "Air Fryer",
+    "customerName": "Mohan",
+    "price": 6500
+  },
+  {
+    "id": 48,
+    "product": "Electric Toothbrush",
+    "customerName": "Chaitanya",
+    "price": 1900
+  },
+  {
+    "id": 49,
+    "product": "Vacuum Cleaner",
+    "customerName": "Padma",
+    "price": 8500
+  },
+  {
+    "id": 50,
+    "product": "Induction Cooktop",
+    "customerName": "Sai",
+    "price": 2600
+  }
+]
